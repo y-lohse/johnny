@@ -1,0 +1,21 @@
+{
+  "name": "johnny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-lohse/johnny.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/y-lohse/johnny/issues"
+  },
+  "homepage": "https://github.com/y-lohse/johnny#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.16.0",
+    "node-mattermost": "0.0.1"
+  }
+}
